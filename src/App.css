@@ -11,6 +11,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: cursive;
 }
 
 a:hover{
@@ -376,3 +377,10 @@ width: 70%;
     padding: 20px;
     align-items: center;
 }
+
+/* Beauty */
+
+.heading {
+    font-family: cursive;
+}
+

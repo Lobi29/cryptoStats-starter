@@ -25,7 +25,7 @@ const App = () => {
         </Layout>
 
         <div className="footer">
-          <Typography.Title level={5} style={{ color: 'white', textAlign: 'center' }}>
+          <Typography.Title level={5} style={{ color: 'white', textAlign: 'center', fontFamily: "cursive" }}>
             Thirdparty <br />
             All rights reserved
           </Typography.Title>
